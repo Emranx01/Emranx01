@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Emranx01
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c,c++,python,php,javascript.
-
 
 
 <!---
